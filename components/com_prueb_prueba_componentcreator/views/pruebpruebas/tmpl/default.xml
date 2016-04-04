@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="COM_PRUEB_PRUEBA_TITLE_LIST_VIEW_PRUEBPRUEBAS" option="View">
+        <message>
+                        <![CDATA[COM_PRUEB_PRUEBA_TITLE_LIST_VIEW_PRUEBPRUEBAS_DESC]]>
+        </message>
+	</layout>
+</metadata>

@@ -1,0 +1,143 @@
+lun 21 dic 2015 23:46:25 CET [6093][1][FATAL]  Query Failed:  SHOW COLUMNS FROM  -- Field,Type,Null,Key,Default,Extra: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+mié 23 dic 2015 18:24:34 CET [2803][1][FATAL]  Query Failed: SELECT name FROM k6vby__assets where name='com_prueb_prueba': MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:24:34 CET [2803][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__assets 
+            (parent_id,level,name                       ,title                      ,rules) VALUES
+            ('1'      ,'1'  ,'com_prueb_prueba','com_prueb_prueba','{}');
+            : MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:24:34 CET [2803][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:24:47 CET [5619][1][FATAL]  Query Failed: SELECT name FROM k6vby__assets where name='com_prueb_prueba': MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:24:47 CET [5619][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__assets 
+            (parent_id,level,name                       ,title                      ,rules) VALUES
+            ('1'      ,'1'  ,'com_prueb_prueba','com_prueb_prueba','{}');
+            : MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:24:47 CET [5619][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:24:58 CET [3053][1][FATAL]  Query Failed: SELECT name FROM k6vby__assets where name='com_prueb_prueba': MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:24:58 CET [3053][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__assets 
+            (parent_id,level,name                       ,title                      ,rules) VALUES
+            ('1'      ,'1'  ,'com_prueb_prueba','com_prueb_prueba','{}');
+            : MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:24:58 CET [3053][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:26:09 CET [5668][1][FATAL]  Query Failed: SELECT name FROM k6vby__assets where name='com_prueb_prueba': MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:26:09 CET [5668][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__assets 
+            (parent_id,level,name                       ,title                      ,rules) VALUES
+            ('1'      ,'1'  ,'com_prueb_prueba','com_prueb_prueba','{}');
+            : MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:26:09 CET [5668][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:27:10 CET [2802][1][FATAL]  Query Failed: SELECT name FROM k6vby__assets where name='com_prueb_prueba': MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:27:10 CET [2802][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__assets 
+            (parent_id,level,name                       ,title                      ,rules) VALUES
+            ('1'      ,'1'  ,'com_prueb_prueba','com_prueb_prueba','{}');
+            : MySQL error 1146: Table 'joomgar01.k6vby__assets' doesn't exist
+mié 23 dic 2015 18:27:10 CET [2802][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby__extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:27:56 CET [5619][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby_extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:29:09 CET [5660][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby_extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:29:36 CET [5620][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby_extensions
+            (name,                      ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'type,       ,element,                   ,client_id,enabled,access,protected,mani' at line 2
+mié 23 dic 2015 18:30:47 CET [3053][1][FATAL]  Query Failed: 
+            INSERT INTO k6vby_extensions
+            (name                       ,type,       ,element,                   ,client_id,enabled,access,protected,manifest_cache   ,params) VALUES
+            ('com_prueb_prueba','component ','com_prueb_prueba','1'      ,'1'    ,'0'   ,'0'      ,'{"name":"com_prueb_prueba","type":"component","creationDate":"2015-12-21","author":"eugenio","copyright":"Copyright (C) 2015. Todos los derechos reservados.","authorEmail":"eucm2@hotmail.com","authorUrl":"http:\/\/","version":"CVS: 1.0.0","description":"prueb_prueba","group":"","filename":"prueb_prueba"}  ','{}');
+            : MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'element,                   ,client_id,enabled,access,protected,manifest_cache   ' at line 2
+mar 19 ene 2016 15:43:38 CET [3287][1][FATAL]  Query Failed:  SHOW COLUMNS FROM  -- Field,Type,Null,Key,Default,Extra: MySQL error 1064: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Fri Apr  1 02:46:43 2016 [26991][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 02:52:16 2016 [26991][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:12:54 2016 [29638][1][FATAL]  Query Failed: 
+            insert into
+            campos_por_modulo (modulo,campos)
+            VALUES('prueb_prueba', 'name,description')
+            on duplicate key
+            update  campos='name,description'
+            : MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:12:55 2016 [29638][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:13:29 2016 [29638][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:13:56 2016 [29608][1][FATAL]  Query Failed:  SHOW COLUMNS FROM Calls -- Field,Type,Null,Key,Default,Extra: MySQL error 1146: Table 'onefocu4_joomgar.Calls' doesn't exist
+Fri Apr  1 03:13:56 2016 [29608][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='Calls': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:14:07 2016 [29608][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:14:15 2016 [29608][1][FATAL]  Query Failed: 
+            insert into
+            campos_por_modulo (modulo,campos)
+            VALUES('prueb_prueba', 'name')
+            on duplicate key
+            update  campos='name'
+            : MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:14:15 2016 [29608][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:24:36 2016 [29608][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:25:08 2016 [29608][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:25:26 2016 [29608][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Fri Apr  1 03:26:31 2016 [29608][1][FATAL]  Query Failed: select modulo,campos from campos_por_modulo where modulo='prueb_prueba': MySQL error 1146: Table 'onefocu4_joomgar.campos_por_modulo' doesn't exist
+Sun Apr  3 04:12:43 2016 [18102][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:43 2016 [18102][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:44 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:44 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:46 2016 [1522][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:47 2016 [1522][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:47 2016 [1522][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:47 2016 [1522][-none-][FATAL] SECURITY: User authentication for admin failed
+Sun Apr  3 04:12:47 2016 [1522][-none-][FATAL] FAILED LOGIN:attempts[1] - admin
+Sun Apr  3 04:12:47 2016 [1522][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:48 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:48 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:50 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:50 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:57 2016 [17853][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:57 2016 [17853][-none-][FATAL] SECURITY: User authentication for joomlasuite failed
+Sun Apr  3 04:12:57 2016 [17853][-none-][FATAL] FAILED LOGIN:attempts[1] - joomlasuite
+Sun Apr  3 04:12:57 2016 [17853][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:58 2016 [18117][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:12:58 2016 [18117][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:00 2016 [18117][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:00 2016 [18117][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:04 2016 [18117][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:04 2016 [18117][-none-][FATAL] SECURITY: User authentication for joomgar failed
+Sun Apr  3 04:13:04 2016 [18117][-none-][FATAL] FAILED LOGIN:attempts[1] - joomgar
+Sun Apr  3 04:13:04 2016 [18117][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:05 2016 [18104][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:05 2016 [18106][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:07 2016 [18106][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:07 2016 [18106][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:18 2016 [1521][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:18 2016 [1521][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:19 2016 [17853][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:22 2016 [17853][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:26 2016 [17853][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:26 2016 [17853][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:27 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:27 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:29 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
+Sun Apr  3 04:13:29 2016 [18105][-none-][FATAL] Configuration variable date.timezone is not set, guessed timezone America/Chicago. Please set date.timezone="America/Chicago" in php.ini!
